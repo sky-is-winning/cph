@@ -10,3 +10,9 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/sky-is-winning/web
+[submodule "client"]
+	path = client
+	url = https://github.com/sky-is-winning/cphc
+[submodule "websockify"]
+	path = websockify
+	url = https://github.com/novnc/websockify
