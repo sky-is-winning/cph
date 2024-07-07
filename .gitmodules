@@ -1,0 +1,12 @@
+[submodule "dash"]
+	path = dash
+	url = https://github.com/sky-is-winning/dash
+[submodule "houdini"]
+	path = houdini
+	url = https://github.com/sky-is-winning/houdini
+[submodule "snowflake"]
+	path = snowflake
+	url = https://github.com/sky-is-winning/snowflake
+[submodule "web"]
+	path = web
+	url = https://github.com/sky-is-winning/web
