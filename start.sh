@@ -9,8 +9,8 @@ commands=(
     "cd $scriptDir/houdini && python bootstrap.py world"
     "cd $scriptDir/dash && python bootstrap.py -c config.py"
     "cd $scriptDir/web && npm run start"
-    "cd $scriptDir/snowflake && python main.py",
-    "websockify localhost:6113 localhost:6112",
+    "cd $scriptDir/snowflake && python main.py"
+    "websockify localhost:6113 localhost:6112"
     "websockify localhost:9876 localhost:9875"
 )
 
