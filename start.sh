@@ -10,8 +10,8 @@ commands=(
     "cd $scriptDir/dash && python bootstrap.py -c config.py"
     "cd $scriptDir/web && npm run start"
     "cd $scriptDir/snowflake && python main.py"
-    "websockify localhost:6113 localhost:6112"
-    "websockify localhost:9876 localhost:9875"
+    "websockify 0.0.0.0:6113 localhost:6112"
+    "websockify 0.0.0.0:9876 localhost:9875"
 )
 
 # Function to start a screen session with a unique name
