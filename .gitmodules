@@ -13,6 +13,3 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/sky-is-winning/cphc
-[submodule "websockify"]
-	path = websockify
-	url = https://github.com/novnc/websockify

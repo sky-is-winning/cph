@@ -10,9 +10,7 @@ $commands = @(
     "cd $scriptDir\web
     npm run start 80 local",
     "cd $scriptDir\snowflake
-    python main.py",
-    "websockify localhost:6113 localhost:6112",
-    "websockify localhost:9876 localhost:9875"
+    python main.py"
 )
 
 $wtPath = "wt.exe"
